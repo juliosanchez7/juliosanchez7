@@ -21,5 +21,18 @@
     - Webscraping
     - API
     - Sentiment Analysis
-[<img src="https://warehouse-camo.ingress.cmh1.psfhosted.org/1c161c363032ee818604f3fbf446669a202d8d60/68747470733a2f2f646f63732e6e657572616c6d616769632e636f6d2f646f63732f736f757263652f7475746f7269616c732f646574656374696f6e5f796f6c6f76352e706e67" alt="drawing" width="75">](https://github.com/juliosanchez7/computer_vision) 
+- [Image detection of students’ attentiveness in the classroom](https://github.com/juliosanchez7/computer_vision). Tools and Techniques:
+    - YoloV5
+    - Djang
+    - Python
+    - Computer Vision
+    - Object classification
+- [Comparing Collaborative filtering based recommender and Hybrid (collaborative plus content) recommender system](https://github.com/juliosanchez7/recommneder_systems). Tootls and Techniques:
+    - Webscraping
+    - NLP
+    - Sentiment Analysis
+    - Twitter API
+    - Matrix Factorization
+    - Hybrid Recommender System with Pytorch
+    - Pytorch Embedding Layers
 
