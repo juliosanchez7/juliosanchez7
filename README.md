@@ -15,3 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliosanchez7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Main projects:
 [<img src="https://905450.smushcdn.com/2177241/wp-content/uploads/icml_web_en.jpg?size=1000x667&lossy=1&strip=1&webp=1" alt="drawing" width="150">](https://github.com/juliosanchez7/NLP) 
+
+[<img src="https://w7.pngwing.com/pngs/97/164/png-transparent-facial-recognition-system-computer-icons-iris-recognition-face-face-text-people-interface-thumbnail.png" alt="drawing" width="150">](https://github.com/juliosanchez7/computer_vision) 
+
