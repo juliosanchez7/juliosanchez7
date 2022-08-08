@@ -27,7 +27,7 @@
     - Python
     - Computer Vision
     - Object classification
-- [Comparing Collaborative filtering based recommender and Hybrid (collaborative plus content) recommender system](https://github.com/juliosanchez7/recommneder_systems). Tools and Techniques:
+- [Comparing Collaborative filtering based recommender and Hybrid (collaborative plus content) recommender system](https://github.com/juliosanchez7/recommneder_systems/blob/main/final_project.ipynb). Tools and Techniques:
     - Webscraping
     - NLP
     - Sentiment Analysis
