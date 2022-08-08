@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliosanchez7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Main projects:
-- [2021 Canadian election polls based on Twitter Sentiment Analysis]([https://link-url-here.org](https://github.com/juliosanchez7/NLP)). Tools and Techniques:
+- [2021 Canadian election polls based on Twitter Sentiment Analysis](https://github.com/juliosanchez7/NLP). Tools and Techniques:
     - Python
     - NLP
     - Webscraping
